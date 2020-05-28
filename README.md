@@ -1,11 +1,11 @@
 # OBJ to Call of Duty Radiant Map File
 A program that is designed to convert OBJ files exported from Husky/C2M to a readable Call of Duty Radiant .map file.
 
-# Future updates
-A future update will fix flipped maps and inverted textures, possibly support for GTK Radiant
+# Future Updates
+A future update will fix flipped maps and inverted textures, possibly support for GTK Radiant. Also to fix exports that were ripped using C2M or Husky.
 
 # How To Use
-Open up exe, and put OBJ file on exe to convert to .MAP.
+Open up the exe, and place the OBJ file on the exe and then convert to a .MAP file.
 
 # License/Disclaimers
 OBJTOCODMAP is licensed under the GPL license and it and its source code is free to use and modify under the terms of the GPL. ObjtoCODMap comes with NO warranty, any damages caused are solely the responsibility of the user.
@@ -13,7 +13,7 @@ OBJTOCODMAP is licensed under the GPL license and it and its source code is free
 
 # Releases
 Most recent releases will be posted here:
-https://github.com/ModdingForDummies/ObjToCODMap/releases
+https://github.com/ModdingForDummies/OBJ-to-CoD-Radiant-Map-File/releases
 
 # How To Build
 You will need the following: 
