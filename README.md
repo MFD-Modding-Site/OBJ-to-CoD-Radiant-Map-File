@@ -26,4 +26,7 @@ You will need the following:
 
 - Original people who created this tool: Aroosh Bhakhri (IGhost692), and AfirstTimeMapMaker
 
-If you use this program or any part of the code, please give credit to ModdingForDummies, AFirstTimeMapMaker and IGhost692. 
+If you use this program or any part of the code, please give credit to ModdingForDummies, AFirstTimeMapMaker and IGhost692.
+
+# Sign up at
+https://moddingfordummies.proboards.com/
