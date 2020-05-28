@@ -1,5 +1,5 @@
-# ObjToCODMap
-A program that is designed to convert OBJ files to Call of Duty map files.
+# OBJ to Call of Duty Radiant Map File
+A program that is designed to convert OBJ files exported from Husky/C2M to a readable Call of Duty Radiant .map file.
 
 # Future updates
 A future update will fix flipped maps and inverted textures, possibly support for GTK Radiant
