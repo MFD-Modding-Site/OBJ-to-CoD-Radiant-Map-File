@@ -28,5 +28,5 @@ You will need the following:
 
 If you use this program or any part of the code, please give credit to ModdingForDummies, AFirstTimeMapMaker and IGhost692.
 
-# Sign up at
+# Our Forums
 https://moddingfordummies.proboards.com/
