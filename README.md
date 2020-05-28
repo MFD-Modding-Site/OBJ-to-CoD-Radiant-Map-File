@@ -16,12 +16,14 @@ Most recent releases will be posted here:
 https://github.com/ModdingForDummies/ObjToCODMap/releases
 
 # How To Build
-Need Visual Studio 2017
-and Windows SDK
+You will need the following: 
+- Visual Studio 2017 or newer
+- Windows 10 SDK.
 
 
 # Credits
-Programer: Aroosh Bhakhri (IGhost692) 
-Secondary programmer: AfirstTimeMapMaker
+- ModdingForDummies - forking the tool
 
-If you use this program or any part of the code, please give credit to AFirstTimeMapMaker and Aroosh. 
+- Original people who created this tool: Aroosh Bhakhri (IGhost692), and AfirstTimeMapMaker
+
+If you use this program or any part of the code, please give credit to ModdingForDummies, AFirstTimeMapMaker and IGhost692. 
